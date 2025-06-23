@@ -1,1 +1,11 @@
-echo -e "venv/\n__pycache__/\n*.pyc\n.env" > .gitignore
+# Python & environment
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Data files
+data/
+*.csv
+*.json
+*.xlsx
