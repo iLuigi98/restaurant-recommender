@@ -64,6 +64,7 @@ def fetch_businesses(city, state, price, category):
             results.append({
                 "id": biz.get("id"),
                 "name": biz.get("name"),
+                "url": biz.get("url"),
                 "rating": biz.get("rating"),
                 "review_count": biz.get("review_count"),
                 "price": biz.get("price", ""),
