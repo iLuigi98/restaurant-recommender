@@ -2,8 +2,6 @@
 
 A personalized, content-based restaurant recommendation system for people moving or traveling to new cities. By learning from your past favorite restaurants in cities you've lived in, the system suggests places you'll likely enjoy in your new destination — before you even get there.
 
-### [Live Demo](https://luigidata.com/recommender) &nbsp; | &nbsp; [Blog Post](https://medium.com/@iLuigi98) &nbsp; | &nbsp; [GitHub](https://github.com/iLuigi98/restaurant-recommender)
-
 ## Project Highlights
 
 - **Content-Based Filtering** using restaurant descriptions, categories, and review scores
