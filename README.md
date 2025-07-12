@@ -26,6 +26,7 @@ A personalized, content-based restaurant recommendation system for people moving
 ---
 
 ## Project Layout
+```
 restaurant-recommender/
 ├── app/               # Streamlit or Gradio app files
 │   └── main.py        # App entry point
@@ -37,7 +38,7 @@ restaurant-recommender/
 ├── .gitignore         # Ignored files/folders
 ├── README.md          # This file
 └── venv/              # Python virtual environment (excluded from Git)
-
+```
 
 ## How It Works
 
@@ -80,3 +81,4 @@ python -m venv venv
 source venv/bin/activate     # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 streamlit run app/main.py
+```
