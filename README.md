@@ -22,7 +22,7 @@ restaurant-recommender/
 
 ## Setup
 ```bash
-git clone https://github.com/YOUR_USERNAME/restaurant-recommender.git
+git clone https://github.com/iLuigi98/restaurant-recommender.git
 cd restaurant-recommender
 python -m venv venv
 source venv/bin/activate
